@@ -5,8 +5,7 @@ Due to the paper space limitation,  we upload the detail of all the configuratio
 ## Experiment
 
 ### Settings
-
-We evaluate our PED method, both the global path-encoding-based ($PED_G$) and decomposed path-encoding-based ($PED_D$) strategy, on various compositional hybrid systems, all involving discontinuous behavior that cannot be solved by gradient-based methods. Our approach is implemented in Java and all the experiments are conducted on the same PC(Intel Core i7 2.30GHz, 32GB RAM, Windows 10).
+We evaluate our PED method, both the global path-encoding-based strategy, $PED_G$, and decomposed path-encoding-based strategy, $PED_D$, on various compositional hybrid systems, all involving discontinuous behavior that cannot be solved by gradient-based methods. Our approach is implemented in Java and all the experiments are conducted on the same PC(Intel Core i7 2.30GHz, 32GB RAM, Windows 10).
 
 Our approach is evaluated on three different systems, the robotic arm systems(marked as Arm), quadcopter drone systems (marked as Drone), and three different vehicle systems, with respect to different scenarios of the straight road (Veh-a), crossroad (Veh-b), and T-junction (Veh-c). The description for each system in file ```models``` is ended with ```.xml```.
 
