@@ -10,9 +10,9 @@ We evaluate our PED method, both the global path-encoding-based ($PED_G$) and de
 
 Our approach is evaluated on three different systems, the robotic arm systems(marked as Arm), quadcopter drone systems (marked as Drone), and three different vehicle systems, with respect to different scenarios of the straight road (Veh-a), crossroad (Veh-b), and T-junction (Veh-c). The description for each system in file ```models``` is ended with ```.xml```.
 
-For each scenario, we set the number of components in the system as $1$,$2$,$3$ and $5$ respectively. For example, Arm-2 stands for the robotic arm system with first two components, ```Arm-1.cfg``` and ```Arm-2.cfg``` , while Drone-5 stands for the system with all five drones.
+For each scenario, we set the number of components in the system as $1$, $2$, $3$ and $5$ respectively. For example, Arm-2 stands for the robotic arm system with first two components, ```Arm-1.cfg``` and ```Arm-2.cfg``` , while Drone-5 stands for the system with all five drones.
 
 #### Result
 
-The experimental result is shown in [Experimental result.pdf]((https://github.com/PED2022/Expeiment/blob/main/Experimental result.pdf)。
+The experimental result is shown in [Experimental result.pdf]((https://github.com/PED2022/Expeiment/blob/main/Experimental\ result.pdf)。
 
