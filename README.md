@@ -13,5 +13,5 @@ For each scenario, we set the number of components in the system as $1$, $2$, $3
 
 ### Result
 
-The experimental result is shown in [result.pdf](https://github.com/PED2022/Expeiment/blob/main/result.pdf)。
+The experimental result is shown in [result.pdf](https://github.com/PED2022/Experiment/blob/main/result.pdf)。
 
